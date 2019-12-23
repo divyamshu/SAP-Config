@@ -29,10 +29,10 @@ sap_sid = "ECD"
 sap_instancenum = "00"
 
 # URL to download SAPCAR binary from (see step 6)
-url_sap_sapcar_linux = "https://XXX"
+url_sap_sapcar_linux = "https://softwarelibraryst.file.core.windows.net/softwarelibraryfs/HANA/SAPCAR"
 
 # URL to download HANA DB server package from (see step 6)
-url_sap_hdbserver = "https://XXX"
+url_sap_hdbserver = "https://softwarelibraryst.file.core.windows.net/softwarelibraryfs/HANA/SAP_HANA_DATABASE"
 
 # Password for the OS sapadm user
 pw_os_sapadm = "AtAzECD@19"
